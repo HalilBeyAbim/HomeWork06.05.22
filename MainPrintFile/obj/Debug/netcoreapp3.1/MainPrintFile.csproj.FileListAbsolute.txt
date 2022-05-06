@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.exe
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.deps.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.runtimeconfig.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\bin\Debug\netcoreapp3.1\MainPrintFile.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.dll
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.pdb
+C:\Users\ACER\Desktop\EvTapsiriqlari\MainPrintFile\MainPrintFile\obj\Debug\netcoreapp3.1\MainPrintFile.genruntimeconfig.cache
